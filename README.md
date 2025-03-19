@@ -1,2 +1,3 @@
 # pyobfuscator
-Python obfuscator with some cool features
+
+Proof of concept python obfuscator made in a few hours using the `ast` and `astor` Python packages
